@@ -1,0 +1,2 @@
+# GSTMalaysia1218
+In GSTMalaysia1218 dataset, Twitter data was extracted from year 2012 to 2018 from across the 14 different states in Malaysia. It also includes two month’s tweets after the abolishment of GST and the re-introduction of Sales and Services Tax (SST). GSTMalaysia1218 comprises of two sets: original and preprocessed. Opinions are classi-fied as positive, negative and neutral and were manually annotated by a native speaker.
