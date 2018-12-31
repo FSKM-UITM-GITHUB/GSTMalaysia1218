@@ -1,0 +1,27 @@
+Dataset:		1. Original Dataset.csv
+
+Description: 		Contains the original extracted Twitter data from 14 states in Malaysia that were merged into one file. 
+			The dataset consists of 77,637 tweets from 11,628 users.
+
+
+Dataset: 		2. Preprocessed Dataset.csv
+
+Description: 		Contains Twitter data that has gone through a series of preprocessing steps; 
+			Assigned state variable, removed non-Malay tweets, removed tweets with links and removed spams & duplicates. 
+			The dataset consists of 8,829 tweets from 5,016 users.
+
+
+Extaction date: 	November 1st, 2018
+
+Extracted by: 		Mohd Akid Haziq Bin Mohd Fahmi
+			A member of March 2016 batch of Bachelor in Information Technology (Hons.) Intelligent System Engineering, UiTM Shah Alam, Selangor, Malaysia.
+
+Published paper title:	Malaysia's Goods and Services Tax (GST): A New Dataset for Malay Social Media
+
+Authors:		1. Mohd Akid Haziq Bin Mohd Fahmi 
+			Faculty of Computer and Mathematical Sciences, UiTM Shah Alam, Selangor, Malaysia. 
+			akidfhmi@gmail.com
+
+			2. Dr. Ruhaila Maskat
+			Faculty of Computer and Mathematical Sciences, UiTM Shah Alam, Selangor, Malaysia.
+			ruhaila@tmsk.uitm.edu.my
